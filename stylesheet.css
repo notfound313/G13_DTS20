@@ -1,0 +1,36 @@
+
+.container{
+    width: 1170px;
+    margin: 0 auto;
+}
+header{
+    background-color: aliceblue;
+    height: 90px;
+    border-bottom: 2px solid rgb(10, 10, 10);
+}
+
+.header-logo{
+    float:left;
+}
+.header-list{
+    float:right;
+}
+.header-list li{
+    float:left;
+    list-style-type:none;
+    margin: 15px 5px 15px 5px;
+}
+.btn{
+    padding: 12px 24px;
+    color:black;
+    display: inline-block;
+    opacity: 0.8;
+    /* Ubah nilai border-radius ke 4px */
+    border-radius:4px;
+    margin-top: -12px;
+}
+.join{
+    background-color: white;
+    border: 2px solid rgb(10, 10, 10);
+    border-radius: 5px;
+}
