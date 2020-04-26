@@ -44,6 +44,7 @@ header{
 .warning{
   background-color: #62BFED;
   padding: 10px;
+  height:50px;
   animation-name: warning;
   animation-duration:5s;
   animation-delay: 1s;
@@ -113,6 +114,9 @@ footer .footer-wrapper{
   }
   .footer-wrapper .footer-left, .footer-wrapper .footer-center, .footer-wrapper .footer-right{
     width: 100%;
+  }
+  .warning{
+    height:100px;
   }
 }
 
