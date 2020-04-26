@@ -40,6 +40,99 @@ header{
     border: 2px solid rgb(10, 10, 10);
     border-radius: 5px;
 }
+/* Extra2 */
+
+.contact-form {
+ padding: 95px  80px;
+
+}
+.box-shadow {
+	box-shadow: 10px 10px 5px #f0eeeb;
+	border:1px solid #ded2b4;
+	padding:18px;
+	border-radius: 9px;
+	float:left;
+	width: 50%;
+	background: url(https://cdn.pixabay.com/photo/2020/02/06/01/52/planta-4822807_960_720.png);
+	background-position: center;
+}
+	
+
+.section-list {
+  border-bottom: 3px solid #A9A9A9;
+  font-size: 38px;
+  padding-bottom: 16px;
+  margin-bottom: 76px;
+  text-align: center;
+ 
+}
+.section-list h2 {
+	  font-family:slab-serif;
+	  
+}
+	
+
+ input, textarea {
+	 padding: 10px 50px;
+	 font-size: 20px;
+	 width: 380px;
+	 margin-bottom: 30px;
+	 border: 1px solid #D3D3D3;
+	 margin-top: 20px;
+	border-radius: 5px;
+ }
+ 
+ .submit-form {
+	 background-color:  #008B8B;
+	 color: #FFFAF0;
+ }
+ .submit-form:hover {
+	 background-color: #2F4F4F;
+ }
+ label {
+	
+    font-weight: 600 ;
+    text-align: left ;
+	display: block;
+    margin: 0;
+    color: rgba(0,0,0,.87);
+    font-size: 15px;
+    font-weight: 700;
+    text-transform: none;
+}
+.iconing {
+	float: right;
+	width:45%;
+	border:1px solid #ded2b4;
+	border-radius: 10px;
+	 box-shadow: 10px 10px 5px #f0eeeb;
+	background-image: url(https://cdn.pixabay.com/photo/2020/02/06/01/52/planta-4822807_960_720.png); 
+	background-position: center;
+	*/
+	}
+
+.tittle {
+  font-size: 38px;
+  padding-bottom: 15px;
+  margin-bottom: 50px;
+  text-align: center;
+ color:#f57a87;
+ 
+}
+.item{
+	padding-left: 73px;
+	margin-bottom: 15px;
+	
+}
+.item p {
+	padding-left: 55px;
+	padding-bottom: 25px;
+	color: #50524e;
+}
+.item b{
+	color: #50524e;
+}
+
 
 .warning{
   background-color: #62BFED;
