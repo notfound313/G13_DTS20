@@ -120,3 +120,63 @@ footer .footer-wrapper{
   }
 }
 
+.main{
+  padding-top: 30px;
+  padding-bottom: 100px;
+  width: 1170px;
+  margin: 0 auto;
+  font-family: "Lucida Grande";
+}
+
+.search {
+  color: #000000;
+  width: 250px;
+  padding: 5px 5px;
+  border-radius: 4px;
+}
+
+.button{
+ padding: 5px 5px;
+ background-color: #55acee;
+ color: white;
+ border-radius: 4px;
+ }
+
+
+table{
+  border: 0;
+  width: 100%;
+  margin: 150px auto;
+  font-size: 15px;
+}
+
+.laman{
+   background-color: #55acee;
+   opacity: 0.8;
+   border-radius: 4px;
+   padding: 15px 15px;
+   display: inline-block;
+   color: white;
+}
+
+.btn-wrapper {
+  margin: 150px 20px;
+  width: 1170px;
+  text-align: center;
+}
+
+.laman:hover {
+  opacity: 1;
+}
+
+.tombol{
+  opacity: 0.8;
+}
+
+.tombol:hover {
+  opacity: 1;
+}
+
+a {
+  text-decoration: none;
+}
